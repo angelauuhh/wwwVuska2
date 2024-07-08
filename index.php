@@ -1,4 +1,4 @@
-<?php include('variables.php'); ?><!DOCTYPE html>
+<?php include('variables.php'); echo "hola"; ?><!DOCTYPE html>
 <html  >
 <head>
   
